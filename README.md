@@ -1,4 +1,4 @@
-from IPythondisplay import HTML, display
+from IPython.display import HTML, display
 from urllib.request import urlopen
 
 CSS_URL = "https://raw.githubusercontent.com/tivendren/mycustomjupytertheme/main/custom.css"
